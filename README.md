@@ -14,4 +14,6 @@
 - using Ubuntu first caused file permission issues on gradlew
 - the publish-unit-test-result-action needed to be configured with the right directory for the test results
 
+- (the file "Actions · techconvert_SE-public.pdf" contains output from the actions tab as of 2021-11-02)
+
 
